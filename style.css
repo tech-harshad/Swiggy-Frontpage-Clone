@@ -1,0 +1,328 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 80px;
+    max-width: 100%;
+    display: flex;
+    background-color: rgba(252, 128, 25, 0.85);;
+}
+
+.container{
+    height: 90px;
+    max-width: 100%;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 52px;
+    width: 52px;
+    background-image: url(images/logo.png);
+    background-size: cover;
+    border-radius: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.other{
+    height: 72px;
+    margin-inline-start: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-family: sans-serif;
+    text-decoration-line: underline;
+}
+
+.other:hover{
+    color: white;
+}
+
+.other i{
+    margin-inline-start: 10px;
+}
+
+.option-bar{
+    height: 72px;
+    margin-left: 250px;
+    display: flex;
+    align-items: center;
+}
+
+
+.search,.Help,.signin,.cart,.offers,.corporate{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 300;
+    margin-left: 50px;
+}
+
+.search:hover,.Help:hover,.signin:hover,.cart:hover,.offers:hover,.corporate:hover{
+    color: white
+}
+
+.heading{
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.menu-bar{
+    display: flex;
+    max-width: 100%;
+}
+
+.khichdi{
+    height: 200px;
+    width: 160px;
+    margin-left: 160px;
+    background-image: url(images/khichdi.png);
+    background-size: cover;
+}
+
+.noodles{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/noodles.png);
+    background-size: cover;
+}
+
+.coffee{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/coffee.png);
+    background-size: cover;
+}
+
+.chole-bhature{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/chole-bhature.png);
+    background-size: cover;
+}
+
+.paratha{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/paratha.png);
+    background-size: cover;
+}
+
+.menu-bar2{
+    display: flex;
+    max-width: 100%;
+}
+
+.pure-veg{
+    height: 200px;
+    width: 160px;
+    margin-left: 160px;
+    background-image: url(images/pure-veg.png);
+    background-size: cover;
+}
+
+.chinese{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/chinese.png);
+    background-size: cover;
+}
+
+.north-indian{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/north-indian.png);
+    background-size: cover;
+}
+
+.lassi{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/lassi.png);
+    background-size: cover;
+}
+
+.gulab-jamun{
+    height: 200px;
+    width: 160px;
+    margin-left: 80px;
+    background-image: url(images/gulab-jamun.png);
+    background-size: cover;
+}
+
+.chinese:hover,.chole-bhature:hover,.gulab-jamun:hover,.noodles:hover,.north-indian:hover,.paratha:hover,.pure-veg:hover{
+    transition-duration: 3s;
+    transition: ease-in;
+    scale: 1.09;
+    border-radius: 30%;
+}
+
+.khichdi:hover,.lassi:hover,.coffee:hover{
+    transition-duration: 3s;
+    transition: ease-in;
+    scale: 1.04;
+    border-radius: 30%;
+}
+
+.heading2{
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-top: 15px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.menu-bar3{
+    display: flex;
+    max-width: 100%;
+}
+
+.hotel-name{
+    display: flex;
+}
+
+.ranjeet-kitchen{
+    height: 370px;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 80px;
+    border-radius: 3%;
+    background-image: url(images/ranjeet-kitchen.png);
+    background-size: cover;
+}
+
+#ranjeet-kitchen{
+   margin-left: 80px;
+   font-family: sans-serif;
+   font-size: larger;
+}
+
+.Shreeji-Bhojnalay{
+    height: 370px;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 160px;
+    border-radius: 3%;
+    background-image: url(images/Shreeji-Bhojnalay.png);
+    background-size: cover;
+}
+
+#Shreeji-Bhojnalay{
+   margin-left: 530px;
+   font-family: sans-serif;
+   font-size: larger;
+}
+
+.menu-bar4{
+    display: flex;
+    max-width: 100%;
+}
+
+.Malwa-country{
+    height: 370px;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 80px;
+    border-radius: 3%;
+    background-image: url(images/Malwa-country.png);
+    background-size: cover;
+}
+
+.Shiva-chinese{
+    height: 370px;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 160px;
+    border-radius: 3%;
+    background-image: url(images/Shiva-chinese.png);
+    background-size: cover;
+}
+
+.menu-bar5{
+    display: flex;
+    max-width: 100%;
+}
+
+.Burger-house{
+    height: 370px;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 80px;
+    border-radius: 3%;
+    background-image: url(images/Burger-house.png);
+    background-size: cover;
+}
+
+.Kolkatta-rolls{
+    height: 370px;
+    width: 550px;
+    margin-top: 15px;
+    margin-left: 160px;
+    border-radius: 3%;
+    background-image: url(images/kolkata-rolls.png);
+    background-size: cover;
+}
+
+#Kolkatta-rolls{
+    margin-left: 555px;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+.Burger-house:hover,.Shiva-chinese:hover,.ranjeet-kitchen:hover,.Shreeji-Bhojnalay:hover,.Kolkatta-rolls:hover,.Malwa-country:hover{
+    transition-duration: 3s;
+    transition: ease-out;
+    scale: 1.02;
+}
+
+.footer{
+    height: 200px;
+    display: flex;
+}
+
+.h1{
+    margin-top: 80px;
+    margin-left: 30px;
+    display: flex;
+}
+
+.gpay{
+    height: 70px;
+    width: 220px;
+    max-width: 100%;
+    background-image: url(images/gpay.png);
+    background-size: cover;
+    margin-top: 59px;
+    margin-left: 100px;
+}
+
+.astore{
+    height: 80px;
+    width: 250px;
+    max-width: 100%;
+    background-image: url(images/astore.png);
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.footer-options{
+    /* display: flex; */
+    font-size: 24px;
+    text-align: center;
+    justify-content: space-around;
+}
