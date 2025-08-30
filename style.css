@@ -103,11 +103,11 @@
     background-size: cover;
 }
 
-.chole-bhature{
+.chole_bhature{
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(chole-bhature.png);
+    background-image: url(chole_bhature.png);
     background-size: cover;
 }
 
@@ -124,11 +124,11 @@
     max-width: 100%;
 }
 
-.pure-veg{
+.pure_veg{
     height: 200px;
     width: 160px;
     margin-left: 160px;
-    background-image: url(pure-veg.png);
+    background-image: url(pure_veg.png);
     background-size: cover;
 }
 
@@ -140,11 +140,11 @@
     background-size: cover;
 }
 
-.north-indian{
+.north_indian{
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(north-indian.png);
+    background-image: url(north_indian.png);
     background-size: cover;
 }
 
@@ -156,15 +156,15 @@
     background-size: cover;
 }
 
-.gulab-jamun{
+.gulab_jamun{
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(gulab-jamun.png);
+    background-image: url(gulab_jamun.png);
     background-size: cover;
 }
 
-.chinese:hover,.chole-bhature:hover,.gulab-jamun:hover,.noodles:hover,.north-indian:hover,.paratha:hover,.pure-veg:hover{
+.chinese:hover,.chole_bhature:hover,.gulab_jamun:hover,.noodles:hover,.north_indian:hover,.paratha:hover,.pure_veg:hover{
     transition-duration: 3s;
     transition: ease-in;
     scale: 1.09;
@@ -195,33 +195,33 @@
     display: flex;
 }
 
-.ranjeet-kitchen{
+.ranjeet_kitchen{
     height: 370px;
     width: 550px;
     margin-top: 15px;
     margin-left: 80px;
     border-radius: 3%;
-    background-image: url(ranjeet-kitchen.png);
+    background-image: url(ranjeet_kitchen.png);
     background-size: cover;
 }
 
-#ranjeet-kitchen{
+#ranjeet_kitchen{
    margin-left: 80px;
    font-family: sans-serif;
    font-size: larger;
 }
 
-.Shreeji-Bhojnalay{
+.Shreeji_Bhojnalay{
     height: 370px;
     width: 550px;
     margin-top: 15px;
     margin-left: 160px;
     border-radius: 3%;
-    background-image: url(Shreeji-Bhojnalay.png);
+    background-image: url(Shreeji_Bhojnalay.png);
     background-size: cover;
 }
 
-#Shreeji-Bhojnalay{
+#Shreeji_Bhojnalay{
    margin-left: 530px;
    font-family: sans-serif;
    font-size: larger;
@@ -232,23 +232,23 @@
     max-width: 100%;
 }
 
-.Malwa-country{
+.Malwa_country{
     height: 370px;
     width: 550px;
     margin-top: 15px;
     margin-left: 80px;
     border-radius: 3%;
-    background-image: url(Malwa-country.png);
+    background-image: url(Malwa_country.png);
     background-size: cover;
 }
 
-.Shiva-chinese{
+.Shiva_chinese{
     height: 370px;
     width: 550px;
     margin-top: 15px;
     margin-left: 160px;
     border-radius: 3%;
-    background-image: url(Shiva-chinese.png);
+    background-image: url(Shiva_chinese.png);
     background-size: cover;
 }
 
@@ -257,33 +257,33 @@
     max-width: 100%;
 }
 
-.Burger-house{
+.Burger_house{
     height: 370px;
     width: 550px;
     margin-top: 15px;
     margin-left: 80px;
     border-radius: 3%;
-    background-image: url(Burger-house.png);
+    background-image: url(Burger_house.png);
     background-size: cover;
 }
 
-.Kolkatta-rolls{
+.Kolkatta_rolls{
     height: 370px;
     width: 550px;
     margin-top: 15px;
     margin-left: 160px;
     border-radius: 3%;
-    background-image: url(kolkata-rolls.png);
+    background-image: url(kolkata_rolls.png);
     background-size: cover;
 }
 
-#Kolkatta-rolls{
+#Kolkatta_rolls{
     margin-left: 555px;
     font-family: sans-serif;
     font-size: larger;
 }
 
-.Burger-house:hover,.Shiva-chinese:hover,.ranjeet-kitchen:hover,.Shreeji-Bhojnalay:hover,.Kolkatta-rolls:hover,.Malwa-country:hover{
+.Burger_house:hover,.Shiva_chinese:hover,.ranjeet_kitchen:hover,.Shreeji_Bhojnalay:hover,.Kolkatta_rolls:hover,.Malwa_country:hover{
     transition-duration: 3s;
     transition: ease-out;
     scale: 1.02;
