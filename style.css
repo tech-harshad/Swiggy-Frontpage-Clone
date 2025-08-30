@@ -103,7 +103,7 @@
     background-size: cover;
 }
 
-.chole_bhature{
+.chole-bhature{
     height: 200px;
     width: 160px;
     margin-left: 80px;
@@ -124,7 +124,7 @@
     max-width: 100%;
 }
 
-.pure_veg{
+.pure-veg{
     height: 200px;
     width: 160px;
     margin-left: 160px;
@@ -140,7 +140,7 @@
     background-size: cover;
 }
 
-.north_indian{
+.north-indian{
     height: 200px;
     width: 160px;
     margin-left: 80px;
@@ -156,7 +156,7 @@
     background-size: cover;
 }
 
-.gulab_jamun{
+.gulab-jamun{
     height: 200px;
     width: 160px;
     margin-left: 80px;
@@ -164,7 +164,7 @@
     background-size: cover;
 }
 
-.chinese:hover,.chole_bhature:hover,.gulab_jamun:hover,.noodles:hover,.north_indian:hover,.paratha:hover,.pure_veg:hover{
+.chinese:hover,.chole-bhature:hover,.gulab-jamun:hover,.noodles:hover,.north-indian:hover,.paratha:hover,.pure-veg:hover{
     transition-duration: 3s;
     transition: ease-in;
     scale: 1.09;
@@ -195,7 +195,7 @@
     display: flex;
 }
 
-.ranjeet_kitchen{
+.ranjeet-kitchen{
     height: 370px;
     width: 550px;
     margin-top: 15px;
@@ -205,13 +205,13 @@
     background-size: cover;
 }
 
-#ranjeet_kitchen{
+#ranjeet-kitchen{
    margin-left: 80px;
    font-family: sans-serif;
    font-size: larger;
 }
 
-.Shreeji_Bhojnalay{
+.Shreeji-Bhojnalay{
     height: 370px;
     width: 550px;
     margin-top: 15px;
@@ -221,7 +221,7 @@
     background-size: cover;
 }
 
-#Shreeji_Bhojnalay{
+#Shreeji-Bhojnalay{
    margin-left: 530px;
    font-family: sans-serif;
    font-size: larger;
@@ -232,7 +232,7 @@
     max-width: 100%;
 }
 
-.Malwa_country{
+.Malwa-country{
     height: 370px;
     width: 550px;
     margin-top: 15px;
@@ -242,7 +242,7 @@
     background-size: cover;
 }
 
-.Shiva_chinese{
+.Shiva-chinese{
     height: 370px;
     width: 550px;
     margin-top: 15px;
@@ -257,7 +257,7 @@
     max-width: 100%;
 }
 
-.Burger_house{
+.Burger-house{
     height: 370px;
     width: 550px;
     margin-top: 15px;
@@ -267,7 +267,7 @@
     background-size: cover;
 }
 
-.Kolkatta_rolls{
+.Kolkatta-rolls{
     height: 370px;
     width: 550px;
     margin-top: 15px;
@@ -277,13 +277,13 @@
     background-size: cover;
 }
 
-#Kolkatta_rolls{
+#Kolkatta-rolls{
     margin-left: 555px;
     font-family: sans-serif;
     font-size: larger;
 }
 
-.Burger_house:hover,.Shiva_chinese:hover,.ranjeet_kitchen:hover,.Shreeji_Bhojnalay:hover,.Kolkatta_rolls:hover,.Malwa_country:hover{
+.Burger-house:hover,.Shiva-chinese:hover,.ranjeet-kitchen:hover,.Shreeji-Bhojnalay:hover,.Kolkatta-rolls:hover,.Malwa-country:hover{
     transition-duration: 3s;
     transition: ease-out;
     scale: 1.02;
