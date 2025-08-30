@@ -21,7 +21,7 @@
 .logo{
     height: 52px;
     width: 52px;
-    background-image: url(images/logo.png);
+    background-image: url(logo.png);
     background-size: cover;
     border-radius: 30%;
     display: flex;
@@ -83,7 +83,7 @@
     height: 200px;
     width: 160px;
     margin-left: 160px;
-    background-image: url(images/khichdi.png);
+    background-image: url(khichdi.png);
     background-size: cover;
 }
 
@@ -91,7 +91,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/noodles.png);
+    background-image: url(noodles.png);
     background-size: cover;
 }
 
@@ -99,7 +99,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/coffee.png);
+    background-image: url(coffee.png);
     background-size: cover;
 }
 
@@ -107,7 +107,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/chole-bhature.png);
+    background-image: url(chole-bhature.png);
     background-size: cover;
 }
 
@@ -115,7 +115,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/paratha.png);
+    background-image: url(paratha.png);
     background-size: cover;
 }
 
@@ -128,7 +128,7 @@
     height: 200px;
     width: 160px;
     margin-left: 160px;
-    background-image: url(images/pure-veg.png);
+    background-image: url(pure-veg.png);
     background-size: cover;
 }
 
@@ -136,7 +136,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/chinese.png);
+    background-image: url(chinese.png);
     background-size: cover;
 }
 
@@ -144,7 +144,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/north-indian.png);
+    background-image: url(north-indian.png);
     background-size: cover;
 }
 
@@ -152,7 +152,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/lassi.png);
+    background-image: url(lassi.png);
     background-size: cover;
 }
 
@@ -160,7 +160,7 @@
     height: 200px;
     width: 160px;
     margin-left: 80px;
-    background-image: url(images/gulab-jamun.png);
+    background-image: url(gulab-jamun.png);
     background-size: cover;
 }
 
@@ -201,7 +201,7 @@
     margin-top: 15px;
     margin-left: 80px;
     border-radius: 3%;
-    background-image: url(images/ranjeet-kitchen.png);
+    background-image: url(ranjeet-kitchen.png);
     background-size: cover;
 }
 
@@ -217,7 +217,7 @@
     margin-top: 15px;
     margin-left: 160px;
     border-radius: 3%;
-    background-image: url(images/Shreeji-Bhojnalay.png);
+    background-image: url(Shreeji-Bhojnalay.png);
     background-size: cover;
 }
 
@@ -238,7 +238,7 @@
     margin-top: 15px;
     margin-left: 80px;
     border-radius: 3%;
-    background-image: url(images/Malwa-country.png);
+    background-image: url(Malwa-country.png);
     background-size: cover;
 }
 
@@ -248,7 +248,7 @@
     margin-top: 15px;
     margin-left: 160px;
     border-radius: 3%;
-    background-image: url(images/Shiva-chinese.png);
+    background-image: url(Shiva-chinese.png);
     background-size: cover;
 }
 
@@ -263,7 +263,7 @@
     margin-top: 15px;
     margin-left: 80px;
     border-radius: 3%;
-    background-image: url(images/Burger-house.png);
+    background-image: url(Burger-house.png);
     background-size: cover;
 }
 
@@ -273,7 +273,7 @@
     margin-top: 15px;
     margin-left: 160px;
     border-radius: 3%;
-    background-image: url(images/kolkata-rolls.png);
+    background-image: url(kolkata-rolls.png);
     background-size: cover;
 }
 
@@ -304,7 +304,7 @@
     height: 70px;
     width: 220px;
     max-width: 100%;
-    background-image: url(images/gpay.png);
+    background-image: url(gpay.png);
     background-size: cover;
     margin-top: 59px;
     margin-left: 100px;
@@ -314,7 +314,7 @@
     height: 80px;
     width: 250px;
     max-width: 100%;
-    background-image: url(images/astore.png);
+    background-image: url(astore.png);
     background-size: cover;
     margin-top: 50px;
     margin-left: 20px;
